@@ -1,4 +1,4 @@
-Tech Bulletin
+![21 Savage](public/21savage.jpg)
 
 ## Installation
 
@@ -7,5 +7,5 @@ Tech Bulletin
 
 ## Usage
 
-1. run `npm start`
-2. Navigate to `localhost:2000`
+1. run `npm run savage`
+2. Navigate to `localhost:3000`
